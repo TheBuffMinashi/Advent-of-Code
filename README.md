@@ -1,2 +1,2 @@
-# Advent-of-Code
-My Solution to 'Advent of Code' programming exercises
+# Advent of Code
+My Solutions to 'Advent of Code 2021' programming puzzles
