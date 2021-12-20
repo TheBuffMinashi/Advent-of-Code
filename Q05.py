@@ -1,4 +1,4 @@
-file = open('/content/drive/MyDrive/Colab Notebooks/GitHub/Power.txt', 'r')
+file = open('Power.txt', 'r')
 
 data = []
 for line in file:
