@@ -5,7 +5,7 @@ import numpy as np
 y = []
 
 # Open the csv file and read the data
-with open('/content/drive/MyDrive/Colab Notebooks/Measurment.csv', 'r') as file:
+with open('Measurment.csv', 'r') as file:
     reader = csv.reader(file)
     for row in reader:
       y.append(row)
